@@ -1,5 +1,10 @@
-﻿# Exercice 1 - Adding a Manifest
+﻿# Contoso Dashboard Progressive Web Apps
 
-The goal is to first setup the Contoso Dashboard website in order to be able to run and debug it locally. Then, we add a Manifest.json file to make the website 'PWA ready'.
+The Contoso Dashboard website built on [Bootstrap](https://getbootstrap.com/)Bootstrap does not have any server-side component. The whole project runs on the client side. The project was initiated using the [SB Admin template](https://startbootstrap.com/template-overviews/sb-admin/).
 
-The <a href="https://github.com/Microsoft/Windows-AppConsult-PWALab/tree/master/Manual/Exercice1/Start/" target="_blank">Start folder</a> contains the source code to start the exercice 1. Instructions are detailled in the <a href="https://github.com/Microsoft/Windows-AppConsult-PWALab/blob/master/Manual/README.md" target="_blank">Manual</a>
+The main of this project is to convert the Contoso Dashboard website to Progressive Web Apps (PWA) with this features:
+
+- [ ] The ability to install on all devices
+- [ ] Work without an internet connection (offline mode)
+- [ ] Work with cache
+- [ ] Notifications are delivered via push notifications
