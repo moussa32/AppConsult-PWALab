@@ -4,7 +4,7 @@ The Contoso Dashboard website built on [Bootstrap](https://getbootstrap.com/)Boo
 
 The main of this project is to convert the Contoso Dashboard website to Progressive Web Apps (PWA) with this features:
 
-- [ ] The ability to install on all devices
+- [*] The ability to install on all devices
 - [ ] Work without an internet connection (offline mode)
 - [ ] Work with cache
 - [ ] Notifications are delivered via push notifications
